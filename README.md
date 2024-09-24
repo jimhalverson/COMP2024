@@ -6,7 +6,7 @@ Instructor: Jim Halverson
 
 E-mail: ``j.halverson@northeastern.edu``
 
-Office Hours: Dana 226, to discuss.
+Office Hours: TF 8:45-9:45 in-person, virtual on Slack
 
 TA & Grader: Yidi Qi, ``y.qi@northeastern.edu``
 
@@ -16,7 +16,7 @@ TA & Grader: Yidi Qi, ``y.qi@northeastern.edu``
 
 **Course Location:** Ryder 429
 
-**Office Hours:** Let's discuss.
+**Office Hours:** TF 8:45-9:45 in-person, virtual on Slack.
 
 **Lectures:** I'll type code and we will debug in real time. Pedagogically, I think this makes sense. Let's talk about it.
 
